@@ -1,0 +1,6 @@
+classes=1
+train=labels_train.txt
+valid=labels_val.txt
+names=data/coco.names
+backup=backup/
+eval=coco
